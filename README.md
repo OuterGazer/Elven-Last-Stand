@@ -5,6 +5,12 @@ Gameplay preview
 
 ![Elven Last Stand](https://user-images.githubusercontent.com/71871620/129695069-bbe2bd03-8220-4da7-ad7d-656c8c73c85a.gif)
 
+Some Design Aspects (relevant folder has the full list)
+
+![Main Menu 3](https://user-images.githubusercontent.com/71871620/129875405-e66337dc-4f04-4c03-a20b-bf70a896e144.png)
+
+![Level 1 Intro 4](https://user-images.githubusercontent.com/71871620/129875674-614445ba-e1d0-4b65-81f2-3f9babbb9893.png)
+
 This game is based in the Glitch Garden section of the GameDev.tv Unity 2D course.
 
 My original implementations are:
